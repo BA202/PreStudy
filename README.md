@@ -8,9 +8,8 @@ This repository contains all research done for this bachelor thesis
 | Description |  Link  
 |:-----|:--------:
 | TensorFlow tutorial                               | [tutorial](https://www.tensorflow.org/tutorials) 
-| Natural language processing playlist              | [playlist](https://www.youtube.com/playlist?
-list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
-| How to get started with NLP (Webinar)             | [webinar](https://www.brighttalk.com/webcast/17108/404610)
+| Natural language processing playlist              | [playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
+| How to get started with NLP                       | [webinar](https://www.brighttalk.com/webcast/17108/404610)
 | Categorization of customer reviews using NLP      | [thesis](https://www.diva-portal.org/smash/get/diva2:1586228/FULLTEXT01.pdf)
 | Customar reviews analysis using NLP               | [blog](https://www.diva-portal.org/smash/get/diva2:1586228/FULLTEXT01.pdf)
 
