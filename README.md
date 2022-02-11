@@ -12,6 +12,7 @@ This repository contains all research done for this bachelor thesis
 | How to get started with NLP                       | [webinar](https://www.brighttalk.com/webcast/17108/404610)
 | Categorization of customer reviews using NLP      | [thesis](https://www.diva-portal.org/smash/get/diva2:1586228/FULLTEXT01.pdf)
 | Customar reviews analysis using NLP               | [blog](https://www.diva-portal.org/smash/get/diva2:1586228/FULLTEXT01.pdf)
+| Natural language toolkit                          | [doc](https://www.nltk.org/index.html)
 
 #### Sentiment Analysis
 | Description |  Link
