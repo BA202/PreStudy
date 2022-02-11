@@ -13,6 +13,12 @@ This repository contains all research done for this bachelor thesis
 | Categorization of customer reviews using NLP      | [thesis](https://www.diva-portal.org/smash/get/diva2:1586228/FULLTEXT01.pdf)
 | Customar reviews analysis using NLP               | [blog](https://www.diva-portal.org/smash/get/diva2:1586228/FULLTEXT01.pdf)
 
+#### Sentiment Analysis
+| Description |  Link
+|:-----|:--------:
+| Sentiment analysis in python                      | [course](https://www.datacamp.com/courses/sentiment-analysis-in-python?utm_source=adwords_ppc&utm_medium=cpc&utm_campaignid=898687156&utm_adgroupid=48303643819&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=255798221920&utm_targetid=aud-392016246653:dsa-498578056204&utm_loc_interest_ms=&utm_loc_physical_ms=1030659&gclid=Cj0KCQiAr5iQBhCsARIsAPcwROM22qKR8RmB5OtgGW-i6ks2iGoFILvBRC8rAdrb5fWlULv1rq_uUhsaArzyEALw_wcB)
+| Python Sentiment analysis tutorial                | [tutorial](https://www.datacamp.com/community/tutorials/simplifying-sentiment-analysis-python)
+
 
 
 ### Data storage and backend infrastructure
