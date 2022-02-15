@@ -10,9 +10,23 @@ This repository contains all research done for this bachelor thesis
 | TensorFlow tutorial                               | [tutorial](https://www.tensorflow.org/tutorials) 
 | Natural language processing playlist              | [playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
 | How to get started with NLP                       | [webinar](https://www.brighttalk.com/webcast/17108/404610)
-| Categorization of customer reviews using NLP      | [thesis](https://www.diva-portal.org/smash/get/diva2:1586228/FULLTEXT01.pdf)
 | Customar reviews analysis using NLP               | [blog](https://www.diva-portal.org/smash/get/diva2:1586228/FULLTEXT01.pdf)
 | Natural language toolkit                          | [doc](https://www.nltk.org/index.html)
+
+#### Papers
+| Description |  Link
+|:-----|:--------:
+| Sentiment Classification using Machine Learning Techniques        | [paper](https://arxiv.org/pdf/cs/0205070.pdf)
+| Sentiment Analysis and Classification Based On Textual Reviews    | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6508366)
+| Categorization of customer reviews using NLP                      | [thesis](https://www.diva-portal.org/smash/get/diva2:1586228/FULLTEXT01.pdf)
+| Deep Learning for sentiment analysis                              | [paper](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1253)
+| Deep learning for sentiment analysis                              | [paper](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1171)
+| Deep Learning for Aspect-Based Sentiment Analysis                 | [paper](https://www.sciencedirect.com/science/article/pii/S0957417418306456)
+| Customers segmentation in eco-friendly hotels using multi-criteria and machine learning techniques | [paper](https://www.sciencedirect.com/science/article/pii/S0160791X21000038)
+| Customer Perception Analysis Using Deep Learning and NLP          | [paper](https://www.sciencedirect.com/science/article/pii/S1877050918319999)
+| Sentiment analysis using deep learning techniques: a review       | [paper](https://www.researchgate.net/profile/Amna-Noureen/publication/318096420_Sentiment_Analysis_Using_Deep_Learning_Techniques_A_Review/links/596509014585157fcc5e3595/Sentiment-Analysis-Using-Deep-Learning-Techniques-A-Review.pdf)
+| Imapcts of customer feedback for online-offline shopping using ML | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9591939)
+| Sentiment analysis of customer for ecommerce by applying AI       | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9693026)
 
 #### Sentiment Analysis
 | Description |  Link
