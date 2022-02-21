@@ -19,14 +19,16 @@ This repository contains all research done for this bachelor thesis
 | Sentiment Classification using Machine Learning Techniques        | [paper](https://arxiv.org/pdf/cs/0205070.pdf)
 | Sentiment Analysis and Classification Based On Textual Reviews    | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6508366)
 | Categorization of customer reviews using NLP                      | [thesis](https://www.diva-portal.org/smash/get/diva2:1586228/FULLTEXT01.pdf)
-| Deep Learning for sentiment analysis                              | [paper](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1253)
-| Deep learning for sentiment analysis                              | [paper](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1171)
+| Deep learning for sentiment analysis a review                     | [paper](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1171)
 | Deep Learning for Aspect-Based Sentiment Analysis                 | [paper](https://www.sciencedirect.com/science/article/pii/S0957417418306456)
 | Customers segmentation in eco-friendly hotels using multi-criteria and machine learning techniques | [paper](https://www.sciencedirect.com/science/article/pii/S0160791X21000038)
 | Customer Perception Analysis Using Deep Learning and NLP          | [paper](https://www.sciencedirect.com/science/article/pii/S1877050918319999)
 | Sentiment analysis using deep learning techniques: a review       | [paper](https://www.researchgate.net/profile/Amna-Noureen/publication/318096420_Sentiment_Analysis_Using_Deep_Learning_Techniques_A_Review/links/596509014585157fcc5e3595/Sentiment-Analysis-Using-Deep-Learning-Techniques-A-Review.pdf)
 | Imapcts of customer feedback for online-offline shopping using ML | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9591939)
 | Sentiment analysis of customer for ecommerce by applying AI       | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9693026)
+| Hotel recomender system using sentiment analysis and aspect categorization of hotel reviews       | [paper](https://www.sciencedirect.com/science/article/pii/S1568494620308735?via%3Dihub)
+| Learning word vectors for sentiment analysis                      | [paper](http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
+| Machine learning for assessing quality of service in the hospitality sector based on customer reviews | [paper](https://arxiv.org/pdf/2107.10328.pdf)
 
 #### Sentiment Analysis
 | Description |  Link
