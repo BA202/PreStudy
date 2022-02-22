@@ -30,6 +30,11 @@ This repository contains all research done for this bachelor thesis
 | Learning word vectors for sentiment analysis                      | [paper](http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
 | Machine learning for assessing quality of service in the hospitality sector based on customer reviews | [paper](https://arxiv.org/pdf/2107.10328.pdf)
 
+#### Paper + Code
+| Description |  Link
+|:-----|:--------:
+| Hotel recommender system using sentiment analysis and aspect categorization of hotel reviews          | [paper](https://www.sciencedirect.com/science/article/pii/S1568494620308735?via%3Dihub)
+| Github Repo                                                                                           | [git](https://github.com/garain/Hotel-Recommender-System)
 #### Sentiment Analysis
 | Description |  Link
 |:-----|:--------:
